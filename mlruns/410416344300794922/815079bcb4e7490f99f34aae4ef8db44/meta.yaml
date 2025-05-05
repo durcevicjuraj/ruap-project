@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Dev/ruap-project/mlruns/410416344300794922/815079bcb4e7490f99f34aae4ef8db44/artifacts
+end_time: 1746462756908
+entry_point_name: ''
+experiment_id: '410416344300794922'
+lifecycle_stage: active
+run_id: 815079bcb4e7490f99f34aae4ef8db44
+run_name: dashing-snipe-64
+run_uuid: 815079bcb4e7490f99f34aae4ef8db44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746462549298
+status: 4
+tags: []
+user_id: juraj
