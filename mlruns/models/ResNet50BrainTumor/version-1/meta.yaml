@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746470422939
+current_stage: None
+description: null
+last_updated_timestamp: 1746470422939
+name: ResNet50BrainTumor
+run_id: 4c5d5a0780f04d159b1540bfdcbec9b1
+run_link: null
+source: file:///C:/Dev/ruap-project/mlruns/410416344300794922/4c5d5a0780f04d159b1540bfdcbec9b1/artifacts/resnet50_brain_tumor
+status: READY
+status_message: null
+storage_location: file:///C:/Dev/ruap-project/mlruns/410416344300794922/4c5d5a0780f04d159b1540bfdcbec9b1/artifacts/resnet50_brain_tumor
+user_id: null
+version: 1

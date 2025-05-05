@@ -1,0 +1,22 @@
+artifact_path: resnet50_brain_tumor
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.13.2
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.7.0+cpu
+mlflow_version: 2.22.0
+model_size_bytes: 94387855
+model_uuid: fb8b864e105f40439ace11591dda6df6
+prompts: null
+run_id: 4c5d5a0780f04d159b1540bfdcbec9b1
+utc_time_created: '2025-05-05 18:40:17.472362'
